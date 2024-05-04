@@ -5,7 +5,7 @@ import math
 
 # Running real time from webcam
 # cap = cv2.VideoCapture("file4.mp4")
-cap = cv2.VideoCapture("file4.mp4")
+cap = cv2.VideoCapture("file6.mp4")
 
 model = YOLO('best.pt')
 
