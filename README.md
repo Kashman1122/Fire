@@ -1,4 +1,4 @@
-This repository contains code for real-time fire detection using the YOLOv5 object detection model. The model is capable of detecting fire and smoke in video streams in real-time.
+This repository contains code for real-time fire detection using the YOLO object detection model. The model is capable of detecting fire and smoke in video streams in real-time.
 
 Installation & Requirements
 1 Python 3.6 or later
