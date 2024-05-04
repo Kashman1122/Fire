@@ -48,5 +48,10 @@ while True:
     cv2.waitKey(1)
 
 
-    
+#IF YOU ARE WORKING WITH IOT DEVICE LIKE ESP32 CAM THEN U CAN JUST REPLACE THE IP ADDRESS OF THAT MODULE WITH "FILE.MP4" 
+
+#url = 'http://192.168.22.XX/cam-hi.jpg'(use your ip address)
+#cap = cv2.VideoCapture(url)
+
+
 
